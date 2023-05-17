@@ -1,0 +1,4 @@
+config BR2_PACKAGE_CYCLONEDDS
+	bool "cyclonedds"
+	help
+	  cyclonedds
